@@ -43,6 +43,7 @@
     "deep-extend": "^0.4.0",
     "dockerode": "^2.1.4",
     "exec": "0.2.0",
+	"googleapis": "^2.0.6", // WARNING: this api library is in alpha. https://github.com/google/google-api-nodejs-client/
     "install": "^0.1.8",
     "jquery": "^2.1.3",
     "mixpanel": "0.2.0",
